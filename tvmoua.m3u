@@ -1,0 +1,465 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS Un HD FR" tvg-logo="" group-title="FRANCE CHANNELS",RTS Un HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11453.ts
+#EXTINF:-1 tvg-id="RTS2.ch" tvg-name="RTS Deux HD FR" tvg-logo="" group-title="FRANCE CHANNELS",RTS Deux HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11454.ts
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="" group-title="FRANCE CHANNELS",TF1 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11455.ts
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",TF1 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11456.ts
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="" group-title="FRANCE CHANNELS",France 2 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11457.ts
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",France 2 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11458.ts
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="" group-title="FRANCE CHANNELS",France 3 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11459.ts
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",France 3 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11460.ts
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",France 4 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11461.ts
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="" group-title="FRANCE CHANNELS",France 5 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11462.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="M6 FR" tvg-logo="" group-title="FRANCE CHANNELS",M6 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11463.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="M6 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",M6 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11464.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Syfy FR" tvg-logo="" group-title="FRANCE CHANNELS",Syfy FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11465.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TFX FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",TFX FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11466.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TFX FR" tvg-logo="" group-title="FRANCE CHANNELS",TFX FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11467.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="W9 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",W9 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11468.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="HD1 FR" tvg-logo="" group-title="FRANCE CHANNELS",HD1 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11469.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="C-8 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",C-8 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11470.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="C-Star FR" tvg-logo="" group-title="FRANCE CHANNELS",C-Star FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11471.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="C-Star HD FR" tvg-logo="" group-title="FRANCE CHANNELS",C-Star HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11472.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="6ter FR" tvg-logo="" group-title="FRANCE CHANNELS",6ter FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11473.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="6ter HD FR" tvg-logo="" group-title="FRANCE CHANNELS",6ter HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11474.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="RTL 9 FR" tvg-logo="" group-title="FRANCE CHANNELS",RTL 9 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11475.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Chérie 25 FR" tvg-logo="" group-title="FRANCE CHANNELS",Chérie 25 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11476.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="13eme Rue FR" tvg-logo="" group-title="FRANCE CHANNELS",13eme Rue FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11477.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="AB1 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",AB1 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11478.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="AB3 FR" tvg-logo="" group-title="FRANCE CHANNELS",AB3 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11479.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="E! FR" tvg-logo="" group-title="FRANCE CHANNELS",E! FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11481.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Elle Girl HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Elle Girl HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11482.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Seasons HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Seasons HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11483.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="serieclub FR" tvg-logo="" group-title="FRANCE CHANNELS",serieclub FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11484.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Comédie+ HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Comédie+ HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11485.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ HD FR" tvg-logo="" group-title="FRANCE CHANNELS",CANAL+ HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11486.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ Cinema HD FR" tvg-logo="" group-title="FRANCE CHANNELS",CANAL+ Cinema HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11487.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ Decale HD FR" tvg-logo="" group-title="FRANCE CHANNELS",CANAL+ Decale HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11488.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ Family HD FR" tvg-logo="" group-title="FRANCE CHANNELS",CANAL+ Family HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11489.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ Series HD FR" tvg-logo="" group-title="FRANCE CHANNELS",CANAL+ Series HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11490.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Ciné+ Classic HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Ciné+ Classic HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11491.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Ciné FX HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Ciné FX HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11492.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Ciné Polar HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Ciné Polar HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11493.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Ciné+ Emotion HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Ciné+ Emotion HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11494.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Ciné+ Famiz FR" tvg-logo="" group-title="FRANCE CHANNELS",Ciné+ Famiz FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11495.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Ciné+ Famiz HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Ciné+ Famiz HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11496.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Ciné+ Frisson HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Ciné+ Frisson HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11497.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Ciné+ Premier HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Ciné+ Premier HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11498.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Play 1 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Canal Play 1 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11499.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Play 2 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Canal Play 2 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11500.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Play 3 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Canal Play 3 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11501.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Play 4 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Canal Play 4 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11502.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Play 5 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Canal Play 5 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11503.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="À La Carte 1 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",À La Carte 1 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11504.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="À La Carte 2 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",À La Carte 2 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11505.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="À La Carte 3 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",À La Carte 3 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11506.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="À La Carte 4 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",À La Carte 4 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11507.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="À La Carte 5 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",À La Carte 5 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11508.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="OCS Choc FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",OCS Choc FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11509.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="OCS City FR" tvg-logo="" group-title="FRANCE CHANNELS",OCS City FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11510.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="OCS Geants FR" tvg-logo="" group-title="FRANCE CHANNELS",OCS Geants FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11511.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="OCS Max FR" tvg-logo="" group-title="FRANCE CHANNELS",OCS Max FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11512.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="OCS Go Cinema 1 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",OCS Go Cinema 1 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11513.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="OCS Go Cinema 2 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",OCS Go Cinema 2 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11514.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="OCS Go Cinema 4 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",OCS Go Cinema 4 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11515.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="OCS Go Cinema 5 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",OCS Go Cinema 5 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11516.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Orange Cinema 1 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Orange Cinema 1 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11517.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Orange Cinema 2 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Orange Cinema 2 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11518.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Orange Cinema 3 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Orange Cinema 3 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11519.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Orange Cinema 4 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Orange Cinema 4 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11520.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Orange Cinema 5 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Orange Cinema 5 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11521.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Orange Cinema Action HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Orange Cinema Action HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11522.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Orange Cinema Aventure HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Orange Cinema Aventure HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11523.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Orange Cinema HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Orange Cinema HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11524.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Orange Cinema Horreur HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Orange Cinema Horreur HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11525.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Orange Comment CEst Fait HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Orange Comment CEst Fait HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11526.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Orange Documentaire HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Orange Documentaire HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11527.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Paramount Channel HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Paramount Channel HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11528.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TCM Cinéma HD FR" tvg-logo="" group-title="FRANCE CHANNELS",TCM Cinéma HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11529.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TMC FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",TMC FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11530.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Boing FR" tvg-logo="" group-title="FRANCE CHANNELS",Boing FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11531.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Boomerang FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",Boomerang FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11532.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network FR" tvg-logo="" group-title="FRANCE CHANNELS",Cartoon Network FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11533.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Gulli FR" tvg-logo="" group-title="FRANCE CHANNELS",Gulli FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11534.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Piwi+ HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Piwi+ HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11535.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="téléTOON+ HD FR" tvg-logo="" group-title="FRANCE CHANNELS",téléTOON+ HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11536.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Tiji FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",Tiji FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11537.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal J FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",Canal J FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11538.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Channel HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Disney Channel HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11539.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Channel +1 FR" tvg-logo="" group-title="FRANCE CHANNELS",Disney Channel +1 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11540.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Cinema FR" tvg-logo="" group-title="FRANCE CHANNELS",Disney Cinema FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11541.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Cinema HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Disney Cinema HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11542.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Junior HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Disney Junior HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11543.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney XD HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Disney XD HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11544.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Mangas HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Mangas HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11545.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="J-One FR" tvg-logo="" group-title="FRANCE CHANNELS",J-One FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11546.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Game One FR" tvg-logo="" group-title="FRANCE CHANNELS",Game One FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11547.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Channel HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Discovery Channel HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11548.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Science HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Discovery Science HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11549.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Investigation Discovery HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Investigation Discovery HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11550.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Planète+ HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Planète+ HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11551.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Planète+ Aventure Expérience HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Planète+ Aventure Expérience HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11552.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Planète+ Crime+Investigation HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Planète+ Crime+Investigation HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11553.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="National Geographic HD FR" tvg-logo="" group-title="FRANCE CHANNELS",National Geographic HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11554.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Nat Geo Wild HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Nat Geo Wild HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11555.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Action FR" tvg-logo="" group-title="FRANCE CHANNELS",Action FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11556.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Animaux HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Animaux HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11557.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Arte FR" tvg-logo="" group-title="FRANCE CHANNELS",Arte FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11558.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="AUTOMOTO TV FR" tvg-logo="" group-title="FRANCE CHANNELS",AUTOMOTO TV FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11559.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Chasse et Pêche FR" tvg-logo="" group-title="FRANCE CHANNELS",Chasse et Pêche FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11560.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="KTO FR" tvg-logo="" group-title="FRANCE CHANNELS",KTO FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11561.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="M6 Music FR" tvg-logo="" group-title="FRANCE CHANNELS",M6 Music FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11562.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="MCM HD FR" tvg-logo="" group-title="FRANCE CHANNELS",MCM HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11563.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Mezzo Live HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Mezzo Live HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11564.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV FR" tvg-logo="" group-title="FRANCE CHANNELS",MTV FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11565.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Base FR" tvg-logo="" group-title="FRANCE CHANNELS",MTV Base FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11566.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Hits FR" tvg-logo="" group-title="FRANCE CHANNELS",MTV Hits FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11567.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Music FR" tvg-logo="" group-title="FRANCE CHANNELS",MTV Music FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11568.ts
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban FR" tvg-logo="" group-title="FRANCE CHANNELS",Trace Urban FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11570.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Equidia HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Equidia HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11584.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Equidia FR" tvg-logo="" group-title="FRANCE CHANNELS",Equidia FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11585.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ Sport HD FR" tvg-logo="" group-title="FRANCE CHANNELS",CANAL+ Sport HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11586.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Eurosport 1 FR" tvg-logo="" group-title="FRANCE CHANNELS",Eurosport 1 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11587.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Eurosport 2 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Eurosport 2 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11588.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="FOOT+ 24/24 FR" tvg-logo="" group-title="FRANCE CHANNELS",FOOT+ 24/24 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11589.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="GOLF+ HD FR" tvg-logo="" group-title="FRANCE CHANNELS",GOLF+ HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11590.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="InfoSport+ HD FR" tvg-logo="" group-title="FRANCE CHANNELS",InfoSport+ HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11591.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="RMC Sport 1 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",RMC Sport 1 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11592.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="RMC Sport 2 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",RMC Sport 2 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11593.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="RMC Sport 3 HD FR" tvg-logo="" group-title="FRANCE CHANNELS",RMC Sport 3 HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11594.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="C-News FR" tvg-logo="" group-title="FRANCE CHANNELS",C-News FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11595.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Euronews FR" tvg-logo="" group-title="FRANCE CHANNELS",Euronews FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11596.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="France 24 FR" tvg-logo="" group-title="FRANCE CHANNELS",France 24 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11597.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="France Info FR" tvg-logo="" group-title="FRANCE CHANNELS",France Info FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11598.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="France Ô FR" tvg-logo="" group-title="FRANCE CHANNELS",France Ô FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11599.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="i24NEWS FR" tvg-logo="" group-title="FRANCE CHANNELS",i24NEWS FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11600.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Africa 24 FR" tvg-logo="" group-title="FRANCE CHANNELS",Africa 24 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11601.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Alsace 20 FR" tvg-logo="" group-title="FRANCE CHANNELS",Alsace 20 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11602.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Histoire FR" tvg-logo="" group-title="FRANCE CHANNELS",Histoire FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11603.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Alpha JU FR" tvg-logo="" group-title="FRANCE CHANNELS",Canal Alpha JU FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11604.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BFM Business HD FR" tvg-logo="" group-title="FRANCE CHANNELS",BFM Business HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11606.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BFM TV HD FR" tvg-logo="" group-title="FRANCE CHANNELS",BFM TV HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11607.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Bet HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Bet HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11608.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Weo HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Weo HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11609.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="La Chaîne Normande TV FR" tvg-logo="" group-title="FRANCE CHANNELS",La Chaîne Normande TV FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11610.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="La Une HD FR" tvg-logo="" group-title="FRANCE CHANNELS",La Une HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11611.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Numéro 23 FR" tvg-logo="" group-title="FRANCE CHANNELS",Numéro 23 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11612.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="OL TV HD FR" tvg-logo="" group-title="FRANCE CHANNELS",OL TV HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11613.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Paris Premiere HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Paris Premiere HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11614.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="RFM TV HD FR" tvg-logo="" group-title="FRANCE CHANNELS",RFM TV HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11615.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="RMC Decouverte HD FR" tvg-logo="" group-title="FRANCE CHANNELS",RMC Decouverte HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11616.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Science & Vie TV FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",Science & Vie TV FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11617.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Brava FR" tvg-logo="" group-title="FRANCE CHANNELS",Stingray Brava FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11618.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Toute lHistoire FR" tvg-logo="" group-title="FRANCE CHANNELS",Toute lHistoire FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11619.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Trek HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Trek HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11620.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVBreizh FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",TVBreizh FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11621.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVBreizh FR" tvg-logo="" group-title="FRANCE CHANNELS",TVBreizh FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11622.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TV5 Monde HD FR" tvg-logo="" group-title="FRANCE CHANNELS",TV5 Monde HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11623.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="téva FR" tvg-logo="" group-title="FRANCE CHANNELS",téva FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11624.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="téva HD FR" tvg-logo="" group-title="FRANCE CHANNELS",téva HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11625.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Ushuaïa TV FR" tvg-logo="" group-title="FRANCE CHANNELS",Ushuaïa TV FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11626.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Voyage FR" tvg-logo="" group-title="FRANCE CHANNELS",Voyage FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11627.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Vosges Télévision HD FR" tvg-logo="" group-title="FRANCE CHANNELS",Vosges Télévision HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11628.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="MULTISPORTS 1 FR" tvg-logo="" group-title="FRANCE CHANNELS",MULTISPORTS 1 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11629.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="MULTISPORTS 2 FR" tvg-logo="" group-title="FRANCE CHANNELS",MULTISPORTS 2 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11630.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="MULTISPORTS 3 FR" tvg-logo="" group-title="FRANCE CHANNELS",MULTISPORTS 3 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11631.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="MULTISPORTS 4 FR" tvg-logo="" group-title="FRANCE CHANNELS",MULTISPORTS 4 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11632.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="MULTISPORTS 5 FR" tvg-logo="" group-title="FRANCE CHANNELS",MULTISPORTS 5 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11633.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="MULTISPORTS 6 FR" tvg-logo="" group-title="FRANCE CHANNELS",MULTISPORTS 6 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11634.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="LCI FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",LCI FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11635.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="LCI HD FR" tvg-logo="" group-title="FRANCE CHANNELS",LCI HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11636.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY FAMILY FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",DISCOVERY FAMILY FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11637.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="GAME ONE+1 FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",GAME ONE+1 FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11638.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="MY COMEDY TV HD FR" tvg-logo="" group-title="FRANCE CHANNELS",MY COMEDY TV HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11639.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="EXTRÊME SPORTS FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",EXTRÊME SPORTS FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11640.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CLIQUE TV HD FR" tvg-logo="" group-title="FRANCE CHANNELS",CLIQUE TV HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11641.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TRACE LATINA HD FR" tvg-logo="" group-title="FRANCE CHANNELS",TRACE LATINA HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11642.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TRACE GOSPEL FR" tvg-logo="" group-title="FRANCE CHANNELS",TRACE GOSPEL FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11643.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TRACE MZIKI HD FR" tvg-logo="" group-title="FRANCE CHANNELS",TRACE MZIKI HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11644.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TRACE NAIJA HD FR" tvg-logo="" group-title="FRANCE CHANNELS",TRACE NAIJA HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11645.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TRACE TOCA HD FR" tvg-logo="" group-title="FRANCE CHANNELS",TRACE TOCA HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11646.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="OKLM HD FR" tvg-logo="" group-title="FRANCE CHANNELS",OKLM HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11647.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="VH1 FR" tvg-logo="" group-title="FRANCE CHANNELS",VH1 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11648.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="VH1 CLASSIC FR" tvg-logo="" group-title="FRANCE CHANNELS",VH1 CLASSIC FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11649.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="OLYMPIA HD FR" tvg-logo="" group-title="FRANCE CHANNELS",OLYMPIA HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11650.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="DJAZZ TV FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",DJAZZ TV FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11651.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="STINGRAY CLASSICA FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",STINGRAY CLASSICA FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11652.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="M6 BOUTIQUE & CO HD" tvg-logo="" group-title="FRANCE CHANNELS",M6 BOUTIQUE & CO HD
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11653.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="FRANCE 3 NOA FHD" tvg-logo="" group-title="FRANCE CHANNELS",FRANCE 3 NOA FHD
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11654.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="LUCKY JACK TV FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",LUCKY JACK TV FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11655.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="LA CHAINE METEO FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",LA CHAINE METEO FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11656.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BFM PARIS FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",BFM PARIS FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11657.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BFM LYON FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",BFM LYON FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11658.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CNEWS FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",CNEWS FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11659.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BFM GRAND LITTORAL FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",BFM GRAND LITTORAL FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11660.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="DEMAIN ! IDF FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",DEMAIN ! IDF FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11661.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="C-STAR HITS FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",C-STAR HITS FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11662.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TV5 MONDE INFO FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",TV5 MONDE INFO FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11663.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="WARNER TV FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",WARNER TV FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11664.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="WARNER TV HD FR" tvg-logo="" group-title="FRANCE CHANNELS",WARNER TV HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11665.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CGTN Français FR" tvg-logo="" group-title="FRANCE CHANNELS",CGTN Français FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11666.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="RT FRANCE HD FR" tvg-logo="" group-title="FRANCE CHANNELS",RT FRANCE HD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11667.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="MEZZO FR" tvg-logo="" group-title="FRANCE CHANNELS",MEZZO FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11668.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="France 4 FR" tvg-logo="" group-title="FRANCE CHANNELS",France 4 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11669.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="France 4 FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",France 4 FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11670.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TF1 +1 FR" tvg-logo="" group-title="FRANCE CHANNELS",TF1 +1 FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11671.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TMC +1 FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",TMC +1 FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11672.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Clubbing TV FR" tvg-logo="" group-title="FRANCE CHANNELS",Clubbing TV FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11673.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES1 FHD FR" tvg-logo="" group-title="FRANCE CHANNELS",ES1 FHD FR
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/11674.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: RTL TVI HD" tvg-logo="" group-title="BELGIUM CHANNELS",BE: RTL TVI HD
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132265.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: PLUG  RTL" tvg-logo="" group-title="BELGIUM CHANNELS",BE: PLUG  RTL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132266.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: LA UNE HD" tvg-logo="" group-title="BELGIUM CHANNELS",BE: LA UNE HD
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132267.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: LA TROIS" tvg-logo="" group-title="BELGIUM CHANNELS",BE: LA TROIS
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132268.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: EEN HD" tvg-logo="" group-title="BELGIUM CHANNELS",BE: EEN HD
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132269.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: CLUB RTL" tvg-logo="" group-title="BELGIUM CHANNELS",BE: CLUB RTL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132270.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: CANVAS HD" tvg-logo="" group-title="BELGIUM CHANNELS",BE: CANVAS HD
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132271.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: BEL RTL" tvg-logo="" group-title="BELGIUM CHANNELS",BE: BEL RTL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132272.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE:  ELEVEN SPORTS 1" tvg-logo="" group-title="BELGIUM CHANNELS",BE:  ELEVEN SPORTS 1
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132273.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: ELEVEN SPORTS 2" tvg-logo="" group-title="BELGIUM CHANNELS",BE: ELEVEN SPORTS 2
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132274.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: LEVEN SPORT 2" tvg-logo="" group-title="BELGIUM CHANNELS",BE: LEVEN SPORT 2
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132275.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: Canvas HD" tvg-logo="" group-title="BELGIUM CHANNELS",BE: Canvas HD
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132276.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: Q2 HD" tvg-logo="" group-title="BELGIUM CHANNELS",BE: Q2 HD
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132277.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: Vier HD" tvg-logo="" group-title="BELGIUM CHANNELS",BE: Vier HD
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132278.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: VTM KAZOOM" tvg-logo="" group-title="BELGIUM CHANNELS",BE: VTM KAZOOM
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132279.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: VTM HD" tvg-logo="" group-title="BELGIUM CHANNELS",BE: VTM HD
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132280.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: ELEVEN PRO LEAGUES 1" tvg-logo="" group-title="BELGIUM CHANNELS",BE: ELEVEN PRO LEAGUES 1
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132281.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: Voo Sport 1" tvg-logo="" group-title="BELGIUM CHANNELS",BE: Voo Sport 1
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132282.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: Voo WORLD 2" tvg-logo="" group-title="BELGIUM CHANNELS",BE: Voo WORLD 2
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132283.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: ELEVEN PRO LEAGUES 3" tvg-logo="" group-title="BELGIUM CHANNELS",BE: ELEVEN PRO LEAGUES 3
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132284.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: ELEVEN PRO LEAGUES 2" tvg-logo="" group-title="BELGIUM CHANNELS",BE: ELEVEN PRO LEAGUES 2
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132285.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: LA UNE HD" tvg-logo="" group-title="BELGIUM CHANNELS",BE: LA UNE HD
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132286.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: LA DEUX" tvg-logo="" group-title="BELGIUM CHANNELS",BE: LA DEUX
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132287.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: CLUB RTL" tvg-logo="" group-title="BELGIUM CHANNELS",BE: CLUB RTL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132288.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: LA TROIS" tvg-logo="" group-title="BELGIUM CHANNELS",BE: LA TROIS
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132289.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BE: PLUG RTL" tvg-logo="" group-title="BELGIUM CHANNELS",BE: PLUG RTL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/132290.ts
